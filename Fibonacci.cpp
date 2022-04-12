@@ -7,9 +7,8 @@ int main()
 
     cout << "Masukan Batas Deret Bilangan Fibonacci :  ";
     cin >> n;
-	  cout<<endl;
+    cout<<endl;
     cout << "Deret Fibonacci: ";
-
     for (int i = 1; i <= n; ++i)
     {
         // Mencetak dua deret bilangan fibonacci pertama.
